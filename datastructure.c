@@ -15,7 +15,7 @@ int main()
 
     for(i=0;i<20;++i)
     {
-        e[5].empid=i+1;
+        e[20].empid=i+1;
         printf("\nemployee ID :      \t");
         scanf("%d",&e[i].empid);
 
